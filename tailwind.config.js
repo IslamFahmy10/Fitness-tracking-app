@@ -10,7 +10,7 @@ export default {
         'primary-light': '#5C3D2E',
         'accent': '#B85C38',
         'background': '#E0C097',
-        'primary-dark-opacity': 'rgba(92, 61, 46, 0.5)',
+        'primary-dark-opacity': 'rgba(92, 61, 46, 0.6)',
       },
   },
   plugins: [],
